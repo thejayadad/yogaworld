@@ -13,8 +13,8 @@ const NavbarText = () => {
     transition={{ duration: 1 }}
     className='text-white text-center flex flex-col items-center'
   >
-    <h1 className='text-8xl text-pink-500'>Welcome To </h1>
-    <p className='text-5xl text-yellow-400'>Sweets Dreams Delight</p>
+    <h1 className='text-8xl text-pink-500 font-extralight'>Welcome To </h1>
+    <p className='text-5xl text-yellow-400 font-extrabold text'>Sweets Dreams Delight</p>
     <ShopBtn />
   </motion.section>
   )
